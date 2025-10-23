@@ -1,1 +1,1 @@
-console.log('Version 2 component loaded');
+console.log('Version 2 de la aplicación');
